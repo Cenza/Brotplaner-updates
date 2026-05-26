@@ -1,5 +1,6 @@
 {
-  "version": "2026.05.24.2",
-  "url": "https://github.com/Cenza/Brotplaner-updates/releases/download/2026.05.24.2/Brotplaner.2.4.exe",
-  "sha256": "4959d2ee90c4375bc2dffade9ce78acfef9b18f6617e793e65e4fab567e82490"
+  "version": "2026.05.26.1",
+  "url": "https://github.com/Cenza/Brotplaner-updates/releases/download/2026.05.26.1/Brotplaner.2.5.exe",
+  "sha256": "93D42B378A2CB874814B025AACA27017AC14B42C09ADABD5389F6A9617736BA3",
+  "notes": "Geplante Brote werden aus Teige x Stück/Teig angezeigt. Ofen- und Wagenplanung bleiben unverändert."
 }
