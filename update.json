@@ -1,6 +1,6 @@
 {
-  "version": "2026.05.26.1",
-  "url": "https://github.com/Cenza/Brotplaner-updates/releases/download/2026.05.26.1/Brotplaner.2.5.exe",
-  "sha256": "93D42B378A2CB874814B025AACA27017AC14B42C09ADABD5389F6A9617736BA3",
-  "notes": "Geplante Brote werden aus Teige x Stück/Teig angezeigt. Ofen- und Wagenplanung bleiben unverändert."
+  "version": "2026.05.26.3",
+  "url": "https://github.com/Cenza/Brotplaner-updates/releases/download/2026.05.26.3/G%C3%B6rtz%20Brotplaner.exe",
+  "sha256": "69A642B6352A644C06FD7BA4AE5DC77CE3D760AD532E1FACB2841059A7E14790",
+  "notes": "Geplante Brote werden aus Teige x Stück/Teig angezeigt. Gespeicherte Infos leeren setzt auch die Tourfolge vollständig leer. Der separate Menüpunkt Update installieren wurde entfernt."
 }
