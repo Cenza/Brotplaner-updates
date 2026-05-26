@@ -1,0 +1,6 @@
+{
+  "version": "2026.05.26.4",
+  "url": "https://github.com/Cenza/Brotplaner-updates/releases/download/2026.05.26.4/Goertz.Brotplaner.exe",
+  "sha256": "9910DB65024F8F7491E40C24DCCD3775FD72C1B9A3F5C8EB5F01485ACB88851D",
+  "notes": "Updater startet die neue EXE robuster nach dem Ersetzen. Geplante Brote werden aus Teige x Stück/Teig angezeigt. Gespeicherte Infos leeren setzt auch die Tourfolge vollständig leer."
+}
